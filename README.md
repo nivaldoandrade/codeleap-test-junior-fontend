@@ -6,7 +6,7 @@
 
 The purpose of the test is to create a very simple application that will perform basic CRUD functions.
 
-[DEMO DO APP]()
+[DEMO DO APP](https://codeleap-test-junior-frontend.vercel.app/)
 
 ## **Installation**
 
@@ -14,10 +14,10 @@ Use a package manager of your choice (npm, yarn, etc.) in order to install all d
 
 ```
 # Clone repository github
-git clone https://github.com/nivaldoandrade/codeleap-test-junior-fontend
+git clone https://github.com/nivaldoandrade/codeleap-test-junior-frontend
 
 #Install dependencies with Yarn
-yarnins
+yarn 
 ```
 
 ## **Usage**
