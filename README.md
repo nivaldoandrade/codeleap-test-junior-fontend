@@ -17,7 +17,7 @@ Use a package manager of your choice (npm, yarn, etc.) in order to install all d
 git clone https://github.com/nivaldoandrade/codeleap-test-junior-fontend
 
 #Install dependencies with Yarn
-yarnins
+yarn 
 ```
 
 ## **Usage**
